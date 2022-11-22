@@ -11,6 +11,4 @@ Aktivasi Virtual Environment:
 run initial_file.py
 ```> python initial_file.py```
 
-<br>
 ```> python src/app.py```
-<br><br>
